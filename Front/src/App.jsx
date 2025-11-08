@@ -1,4 +1,3 @@
-
 import Header from './componentes/Header'
 import Progress from './componentes/Progress'
 import Games from './componentes/Games'
