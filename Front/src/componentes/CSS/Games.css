@@ -152,3 +152,9 @@
     background-color: #cfbc0d;
 }
 
+body {
+    background-image: url('./public/ondagravit.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

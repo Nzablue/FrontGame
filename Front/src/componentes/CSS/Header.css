@@ -4,9 +4,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    background-image: url('./public/ondagravit.gif');
-    background-attachment: fixed;
-    background-size: cover;
+ 
 }
 
 h1 {
