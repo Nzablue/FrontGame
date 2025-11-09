@@ -152,8 +152,3 @@
     background-color: #cfbc0d;
 }
 
-body {
-    background-image: url('./public/ondagravit.gif');
-    background-attachment: fixed;
-    background-size: cover;
-}
