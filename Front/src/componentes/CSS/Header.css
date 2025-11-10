@@ -196,3 +196,9 @@ h1 {
 .btn-create:hover {
     background-color: #c41288;
 }
+
+body {
+    background-image: url('./public/OndaAzul.gif');
+    background-attachment: fixed;
+    background-size: cover;
+}
